@@ -1,0 +1,307 @@
+
+
+.bg-light{
+   transition: all 0.5s ease;
+}
+
+p{
+   font-weight: lighter;
+
+}
+
+li.nav-item{
+  margin-right: 2em;
+}
+
+
+.titulos{
+  font-weight: 200;
+  font-size: 2em;
+
+}
+.header{
+  background: rgba(234,249,255,1);
+  background: -moz-linear-gradient(45deg, rgba(234,249,255,1) 0%, rgba(235,249,255,1) 41%, rgba(208,251,255,1) 75%, rgba(208,251,255,1) 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(234,249,255,1)), color-stop(41%, rgba(235,249,255,1)), color-stop(75%, rgba(208,251,255,1)), color-stop(100%, rgba(208,251,255,1)));
+  background: -webkit-linear-gradient(45deg, rgba(234,249,255,1) 0%, rgba(235,249,255,1) 41%, rgba(208,251,255,1) 75%, rgba(208,251,255,1) 100%);
+  background: -o-linear-gradient(45deg, rgba(234,249,255,1) 0%, rgba(235,249,255,1) 41%, rgba(208,251,255,1) 75%, rgba(208,251,255,1) 100%);
+  background: -ms-linear-gradient(45deg, rgba(234,249,255,1) 0%, rgba(235,249,255,1) 41%, rgba(208,251,255,1) 75%, rgba(208,251,255,1) 100%);
+  background: linear-gradient(45deg, rgba(234,249,255,1) 0%, rgba(235,249,255,1) 41%, rgba(208,251,255,1) 75%, rgba(208,251,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaf9ff', endColorstr='#d0fbff', GradientType=1 );
+  height:auto;
+  padding: 0;
+  color: #505050;
+}
+header{
+padding-top: 5em;}
+
+.banner{
+  padding-top:8rem;}
+
+
+
+.Banner-color1{
+width: 100%;
+height:30rem;
+background-image:url(../img/banner1.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+
+}
+
+.Banner-color2{
+background:;
+width: 100%;
+height:30rem;
+background-image:url(../img/banner2.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+
+}
+.Banner-color3{
+background:;
+width: 100%;
+height:30rem;
+background-image:url(../img/banner3.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+
+}
+
+
+
+
+span{
+  font-size: 1.5rem;
+font-weight: lighter;}
+h1{
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.linea{
+  font-weight: 100;
+  padding-bottom: : 1em;
+  font-size: 1.5em;
+  margin: 0;
+}
+
+
+.section1{
+  padding-top:4rem;
+  padding-bottom:4rem;
+
+}
+.section2{
+  background-image: url(../img/white_carbon.png);
+  padding-top:4rem;
+  padding-bottom: 4rem;
+  color:#595959;
+}
+
+.somo{
+padding-bottom: 1em;}
+/* clientes */
+.section22{
+  background-image: url(../img/papyrus.png);
+  padding-top:4rem;
+  padding-bottom: 4rem;
+  color:#595959;
+}
+.Client-description{
+font-weight: 100;
+letter-spacing: 1px;
+}
+
+
+
+/* fin clientes */
+.btn-primary{
+  background: #FF7300;
+  border-color:#E56700;
+}
+.btn-primary:hover{
+  background-color: #1C1C1C;
+  border-color: #9A9A9A;
+}
+
+.btn-primary:focus {
+  background-color: #1C1C1C !important;
+  border-color: #9A9A9A !important;
+  box-shadow:0 0 0 0.2rem rgba(188, 188, 188, 0.5);
+}
+ .icon-div{
+   padding-top: 4rem;
+ }
+
+.icon{
+width: 4em;
+padding-bottom: 2em;
+}
+
+.icon2{
+width: 6em;
+
+
+}
+
+
+.section3{
+  padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.section3 h2{
+  padding:1rem;
+}
+.section3 article h3{
+  padding:2rem ;
+}
+
+.product{
+
+  margin-bottom: 3em;
+
+
+}
+
+
+.images-product{
+  width: 90%;
+  padding:0;
+}
+
+/* productos fin home  */
+
+/* producs */
+.carusel{
+    padding: 7em 0;
+}
+
+
+
+/* productos interna  */
+.arow{
+      color: gray;
+      font-size: 1em;
+      font-weight: normal;
+      background: url(../img/arow.svg) no-repeat;
+      height: 4em;
+      width: 2em;
+}
+
+.arow-r{
+      color: gray;
+      font-size: 1em;
+      font-weight: normal;
+      background: url(../img/arow-r.svg) no-repeat;
+      height: 4em;
+      width: 2em;
+}
+
+
+ .shadow1{
+   transition: box-shadow .3s;
+   background-color:#F3F3F3;
+   margin-bottom: 1.2rem;
+
+ }
+ .shadow1:hover{
+   box-shadow: 0 0 11px rgba(33,33,33,.2);
+ }
+
+
+footer{
+  background: #1C1C1C;
+  color: #747474;
+  padding: 4rem 0rem;
+}
+
+footer a{
+color:#747474;
+text-decoration: none;
+
+}
+
+footer  a:hover{
+  text-decoration: none;
+  color: orange;
+}
+ footer li{
+   font-size:0.9em;
+   list-style: none;
+       padding-bottom: 1em;
+ }
+
+footer ul{
+  padding:0;
+}
+
+
+/* button whatsapp */
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+.float:hover{
+  color: white;
+
+
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  /* Styles */
+  h1{
+    font-size:3rem;
+    font-weight: bold;
+
+  }
+
+  .img-size{
+  width: 100%;}
+
+.btn{
+   margin-bottom: 2rem;
+}
+
+.icon2{
+width: 3em;
+
+
+}
+
+
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+
+
+  h1{
+    font-size:2rem;
+    font-weight: bold;
+
+  }
+
+}
